@@ -1,1 +1,1 @@
-image: admin/mynginx:v4
+image: root/mynginx:v5
